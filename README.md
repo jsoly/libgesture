@@ -9,8 +9,9 @@ allprojects {
 	maven { url 'https://www.jitpack.io' }
 	}
 }
+
 dependencies {
-	compile 'com.github.jsoly:libgesture:v1.0.0'
+  	compile 'com.github.jsoly:libgesture:v1.0.0'
 }
 ``
 ## 使用方法

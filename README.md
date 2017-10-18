@@ -1,8 +1,8 @@
 # 手势密码控件GestureView
 由于公司需求而做的控件，感兴趣的可以下载或者fork，懒人可直接依赖使用
-![img][https://github.com/jsoly/libgesture/blob/master/img1.jpg]
-![img][https://github.com/jsoly/libgesture/blob/master/img2.jpg]
-![img][https://github.com/jsoly/libgesture/blob/master/img3.jpg]
+![image](https://github.com/jsoly/libgesture/blob/master/img1.jpg)
+![image](https://github.com/jsoly/libgesture/blob/master/img2.jpg)
+![image](https://github.com/jsoly/libgesture/blob/master/img3.jpg)
 ## 依赖导入
 
 ```

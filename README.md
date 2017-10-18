@@ -24,6 +24,7 @@ dependencies {
 ``
 ### DEMO样例
 * MainActivity
+------------
 ``
 public class MainActivity extends AppCompatActivity {
 
@@ -91,4 +92,5 @@ public class MainActivity extends AppCompatActivity {
 }
 ``
 
+--------
 # end

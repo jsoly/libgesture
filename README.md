@@ -14,17 +14,23 @@ dependencies {
   	compile 'com.github.jsoly:libgesture:v1.0.0'
 }
 ``
+----
+
 ## 使用方法
 * 布局添加
+
 ``
+
 <d.cityaurora.com.libgesture.GestureView
         android:id="@+id/mGestureView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>	
 ``
+
 ### DEMO样例
 * MainActivity
 ------------
+
 ``
 public class MainActivity extends AppCompatActivity {
 
@@ -85,11 +91,11 @@ public class MainActivity extends AppCompatActivity {
             mGestureView.setErrorLine(true);
         }else {
             mGestureView.setText("验证成功");
-            //实现逻辑
+           
         }
     }
-
 }
+
 ``
 
 --------

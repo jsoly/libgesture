@@ -2,24 +2,26 @@
 由于公司需求而做的控件，感兴趣的可以下载或者fork，懒人可直接依赖使用
 ## 依赖导入
 ``
-	allprojects {
-		repositories {
-			...
-			maven { url 'https://www.jitpack.io' }
-		}
+allprojects {
+	repositories {
+	...
+	maven { url 'https://www.jitpack.io' }
 	}
-	dependencies {
-	        compile 'com.github.jsoly:libgesture:v1.0.0'
-	}
+}
+dependencies {
+	compile 'com.github.jsoly:libgesture:v1.0.0'
+}
 
 ``
 ## 使用方法
 * 布局添加
 ``
+
 <d.cityaurora.com.libgesture.GestureView
         android:id="@+id/mGestureView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
+	
 ``
 ### DEMO样例
 * MainActivity
